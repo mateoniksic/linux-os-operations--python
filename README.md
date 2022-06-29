@@ -1,7 +1,7 @@
 # python-linux-os-operations
 
 \====================================================\
- DOBRO DOSAO RUNNER! 
+ DOBRO DOSAO RUNNER! \
 \====================================================
  
 Vrijeme i Datum: 07:56:15 3 29/06/2022 \
