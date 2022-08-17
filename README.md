@@ -1,4 +1,18 @@
-# python-linux-os-operations
+# EXECUTE LINUX OS COMMANDS
+Different functions to execute different types of operations in Linux operating system shell.
+1. Enter any Linux OS command
+2. Execute signal
+3. Custom function 1
+4. Custom function 2
+5. Make a directory
+6. Change process priority
+7. Logout
+
+## Instructions to start the application
+1. Clone (download) the repository
+2. Run `python3 main.py` in shell
+
+## Application preview
 
 ```python
 ====================================================
