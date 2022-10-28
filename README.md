@@ -1,4 +1,4 @@
-# EXECUTE LINUX OS COMMANDS
+# LINUX OS OPERATIONS
 Different functions to execute different types of operations in Linux operating system shell.
 1. Enter any Linux OS command
 2. Execute signal
