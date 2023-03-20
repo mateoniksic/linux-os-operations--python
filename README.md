@@ -1,5 +1,9 @@
-# LINUX OS OPERATIONS
-Different functions to execute different types of operations in Linux operating system shell.
+![Social Preview](https://user-images.githubusercontent.com/57192709/226376256-7be7bc65-fe70-489b-b55e-61ce50204c24.png)
+
+# What is project linux os?
+Project linux os executes different types of operations in Linux operating system shell.
+
+# What are the core features?
 1. Enter any Linux OS command
 2. Execute signal
 3. Custom function 1
@@ -8,11 +12,14 @@ Different functions to execute different types of operations in Linux operating 
 6. Change process priority
 7. Logout
 
-## Instructions to start the application
-1. Clone (download) the repository
-2. Run `python3 main.py` in shell
+# How to start the application?
+1. **Clone repository**
+2. **Run command:** `python3 main.py`
 
-## Application preview
+# Live preview
+- [[ CLICK HERE TO EXPERIENCE LINUX OS IN ACTION → ]](https://replit.com/@mateoniksic/Operating-Systems?v=1)
+
+# Sneak peek
 
 ```python
 ====================================================
